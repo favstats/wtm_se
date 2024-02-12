@@ -8,8 +8,10 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 1829db8e-0e99-4bc9-82bd-47f7fc833ac8,Liberaleral politiker,2023-11-17T04:07:07.838Z,1a2e2966-7783-459f-80d6-a69ec43552a5,L,Sweden,se,110911278266783,Liberaleral politiker,Facebook
 19e84cf5-72a5-49e9-828f-60223205df58,Liberalerna Järfälla,2023-05-15T06:55:38.299Z,22001d99-53a3-4fd1-a292-4ae1454f03cb,L,Sweden,se,109434405792991,Liberalerna Järfälla,Facebook
 1e3f90d4-f5f4-45e5-8e78-9a45b74e416f,Karin Karlsbro - Liberalerna.,2022-08-16T15:24:34.758Z,7f0dd37f-2ca3-4696-be90-5d12de17f2b4,L,Sweden,se,559163754139097,Karin Karlsbro - Liberalerna.,Facebook
+1f243a72-ec01-4fe2-88c6-1c8a9d41fcb4,Liberalerna Partille,2024-01-25T05:08:39.478Z,3e3ec1d9-4675-4728-afbd-8f53a8d8ae11,L,Sweden,se,279414562234417,Liberalerna Partille,Facebook
 1f8f5719-4459-4dd6-a012-784b279d921a,Liberalerna Sundbyberg,2022-08-16T15:24:38.579Z,b5e9048a-8815-4027-b129-fcc47e71811a,L,Sweden,se,507299542640142,Liberalerna Sundbyberg,Facebook
 1fa56e82-d6d7-4770-9986-586d8b5b54c6,Liberalerna Osby,2023-10-01T05:08:54.162Z,a91c0d6a-3dd3-4478-aab0-3d66532e4e8b,L,Sweden,se,100307105967735,Liberalerna Osby,Facebook
+1fe6304f-9b5d-401d-8f16-e3bfe24af0cc,Liberalerna Borås,2024-01-22T05:08:32.869Z,423b2ed1-b97e-4d76-aa29-2b7289cd74b1,L,Sweden,se,695869687141003,Liberalerna Borås,Facebook
 21e6ef6f-d32e-4466-aa2d-4b8225e34bcd,Liberalerna Luleå,2022-08-16T15:24:38.416Z,cd65276c-5dbd-475c-b667-4f66eb2a068f,L,Sweden,se,588513591196975,Liberalerna Luleå,Facebook
 25f51fdc-c7f7-4320-9d06-f50fc5e35002,Liberalerna i Vellinge,2023-02-24T10:55:16.618Z,f6651af0-88a4-461c-80db-8edb485f7ccf,L,Sweden,se,300452580055539,Liberalerna i Vellinge,Facebook
 276d4a55-488a-4eef-ab15-d6d10fdec001,Liberalerna Landskrona,2023-03-30T10:55:10.966Z,137a9eb2-7c74-4e8b-a8ac-4d418e1a5047,L,Sweden,se,635025056686844,Liberalerna Landskrona,Facebook
@@ -164,6 +166,7 @@ ffaec0cd-352c-4531-9556-db9e01034a0d,Liberalerna Sollentuna,2023-03-12T10:55:30.
 6bd663fe-d139-478f-9f84-14f98be181f1,Centerpartiet Södertälje,2023-04-09T10:55:15.788Z,94c02e7f-c294-472d-8a07-c64fd641f19b,C,Sweden,se,388060467889201,Centerpartiet Södertälje,Facebook
 6be2e23b-dc26-4af1-960f-08cd7e6ec263,Centerpartiet Partille,2023-02-16T10:55:15.007Z,e592f0b3-c666-4f73-9000-099522bdd548,C,Sweden,se,325336474611258,Centerpartiet Partille,Facebook
 6e07d01b-e852-452b-841c-d831df1a66fe,Centerkvinnorna,2022-08-16T15:24:34.892Z,573f0ce5-ec34-4eb3-8a34-85081c5c93b6,C,Sweden,se,265585313460256,Centerkvinnorna,Facebook
+6ff26113-eefe-4686-8bd1-d09e5600ee83,Centerpartiet Östergötland,2024-01-19T05:08:58.804Z,4f13ede9-9689-41aa-a0da-6c7b477cc076,C,Sweden,se,588714441171717,Centerpartiet Östergötland,Facebook
 707151b7-3934-4199-971d-ecf124b6bb76,Centerpartiet Falun,2023-05-09T06:55:03.759Z,d80784c4-d0b8-4441-8e0a-5e3efb3c8960,C,Sweden,se,417315481625315,Centerpartiet Falun,Facebook
 713d3282-5af8-48c4-8ebb-731bfda0453c,Jobba Grönt,2023-02-07T15:06:04.308Z,01b29970-c4ac-467f-9e06-7983f7beccb2,C,Sweden,se,231632277255213,Jobba Grönt,Facebook
 74bcab84-31a1-46bd-b8b0-5e2aa52ee58d,Centerpartiet i Örnsköldsvik,2023-04-25T06:55:03.497Z,078bc21e-d15b-45d7-a6ef-9de4d0caa2c1,C,Sweden,se,161686777385,Centerpartiet i Örnsköldsvik,Facebook
@@ -288,6 +291,7 @@ ffd69afd-d490-4711-9976-840b2fd533ee,Centerpartiet Lund,2023-04-02T10:55:23.291Z
 845815bd-6348-4963-817b-9c2720d26069,Nya Moderaterna Säter,2022-08-16T15:24:34.751Z,1ba99301-66fd-451c-9d8f-870b19d10fcf,M,Sweden,se,131036190387280,Nya Moderaterna Säter,Facebook
 850af5dd-7ad2-4610-a56b-e2c07659db8e,Jörgen Warborn EU-kandidat,2022-08-16T15:24:31.238Z,7b1e67f3-50d9-498d-8174-0f5ae6a5e08a,M,Sweden,se,56002955332,Jörgen Warborn EU-kandidat,Facebook
 85bd240a-bf77-4673-a661-c4a24ddc2edf,Helena Storckenfeldt,2023-03-03T10:55:14.508Z,782d0fd1-6078-46a8-a941-334bcaa74eba,M,Sweden,se,1673788782717355,Helena Storckenfeldt,Facebook
+8c0b9b1e-f06a-4cb6-b4fc-5e2bf72358d3,Moderaterna i Skåne,2024-01-21T05:09:01.650Z,666d974a-ee2a-4109-8413-c7ffe5abbad8,M,Sweden,se,336995309750321,Moderaterna i Skåne,Facebook
 8dab0ac5-7fd6-4df5-83ac-fbaa33de38d0,Moderaterna i Eskilstuna,2022-08-16T15:24:39.945Z,f8c5bdbe-c228-4156-ae53-cb0382b7f654,M,Sweden,se,278736088808574,Moderaterna i Eskilstuna,Facebook
 8f96a759-8d7b-40a3-af25-c72ee63c4ff2,Moderaterna Mölndal,2023-11-28T07:39:34.894Z,5124ddf8-a5cc-48dd-b6fb-160b1b34d2cb,M,Sweden,se,125396154314182,Moderaterna Mölndal,Facebook
 90b6ebb9-d04f-4485-ae12-ef3bb6fad179,Nya Moderaterna i Stenungsund,2022-08-16T15:24:39.801Z,ad7e68ad-e744-4850-9466-882f9c77a434,M,Sweden,se,488439967871997,Nya Moderaterna i Stenungsund,Facebook
@@ -325,6 +329,7 @@ c84bd4eb-74c3-4dda-9534-541bf82bd623,Daniel Filipsson Kommunalråd M Alingsås,2
 c86640fd-68b1-47fa-98af-0bb5621792bf,Alexandra Anstrell - M,2023-04-08T10:55:23.337Z,46e5362f-f3aa-4839-b2d7-7d24bbf703c0,M,Sweden,se,970821746431237,Alexandra Anstrell - M,Facebook
 c983abe1-5a0d-4b2b-ae38-4518d674d453,Moderaterna i Söderhamn,2023-05-08T06:55:06.297Z,35a57f04-a191-4c46-ad78-77040f470272,M,Sweden,se,321193457994308,Moderaterna i Söderhamn,Facebook
 cac0a0dd-1669-425a-8a40-0a41d886683d,Daniel Källenfors,2023-06-07T06:54:35.500Z,783c0663-d0c2-4b27-a549-1d9dd81edef4,M,Sweden,se,501945196805596,Daniel Källenfors,Facebook
+cba9bf4d-5f8e-448f-8a8c-9645e61361e8,Moderaterna Sundsvall,2024-01-22T05:08:32.836Z,a48ced6f-840c-47d3-beb4-f781d76d4952,M,Sweden,se,1383418911945057,Moderaterna Sundsvall,Facebook
 cf98bc8d-05f8-4bf3-98c0-5d74ce5d0abb,Moderaterna i Österåker,2023-02-11T10:54:57.190Z,665c38b3-8e72-4190-93b8-2f498bfba8f2,M,Sweden,se,391144314309664,Moderaterna i Österåker,Facebook
 cfc2405b-da0d-41ec-9554-68c967210e4d,Moderaterna i Söderköping,2023-03-08T10:55:27.146Z,9935aeab-f738-425f-9d27-3fe64213ee91,M,Sweden,se,466445916763599,Moderaterna i Söderköping,Facebook
 d0f40e44-fab0-405a-9ed9-edf7b0f46bd1,Moderaterna i Kalmar län,2023-03-12T10:55:30.762Z,72e494ea-4ae8-4f21-b14d-64fd94295661,M,Sweden,se,159513904100440,Moderaterna i Kalmar län,Facebook
@@ -434,6 +439,7 @@ fb196ecd-cc14-45c2-a202-d216ff00a92a,Sverigedemokraterna Arboga,2023-12-12T05:09
 1c2463a1-a3f7-498e-bfba-c183dd2ccce7,Kristdemokraterna Tyresö,2023-02-07T15:06:04.469Z,2ebb8f62-d587-46db-ac49-2735f7434f2d,KD,Sweden,se,268593563268202,Kristdemokraterna Tyresö,Facebook
 1c9721ab-f36b-4c09-93a9-289efa613825,Kristdemokraterna Täby,2022-08-16T15:24:34.970Z,acdf8724-2bbf-4d55-a4fd-f1bd9940ad34,KD,Sweden,se,500140550093378,Kristdemokraterna Täby,Facebook
 1d606b94-3d6c-4b49-8e03-08af42c398bb,Kristdemokraterna i Linköping,2023-02-23T10:55:11.299Z,86b845e3-c7bd-4713-95f4-6b451b76d894,KD,Sweden,se,131482086868788,Kristdemokraterna i Linköping,Facebook
+1e99c924-a626-4c3b-9966-237062a51feb,KD Arvika,2024-01-15T05:08:54.810Z,e44902d4-3826-4024-8403-faee381175e4,KD,Sweden,se,182675985548698,KD Arvika,Facebook
 204e2357-ab04-449d-9ca1-a3ed76b726d3,Emanuel Mäkinen KD,2023-05-08T06:55:06.300Z,d7441070-3ec1-4fd9-9a5c-f3796481632c,KD,Sweden,se,100639662767694,Emanuel Mäkinen KD,Facebook
 23491a93-e596-4fba-821d-e3a006477e0f,Kristdemokraterna Borås,2023-03-07T10:55:12.331Z,42d4a3a2-136e-4abb-9077-1a2822fcb2bc,KD,Sweden,se,1591670624426457,Kristdemokraterna Borås,Facebook
 2f231725-3898-4a04-a966-c1a8d07bd850,Kristdemokraterna i Östergötland,2023-10-21T05:09:18.534Z,54d3f463-004b-4086-bb7f-dde552af1bd0,KD,Sweden,se,254418897961924,Kristdemokraterna i Östergötland,Facebook
@@ -773,6 +779,7 @@ fe46794f-f234-4d6d-9b56-95983b9c2c1d,Vänsterpartiet Sundsvall,2023-04-24T06:55:
 3549e070-1182-46c2-90e1-dc66f66dffbb,Jytte Guteland,2022-08-16T15:24:31.692Z,eb3356f5-5bb5-4fe2-aafc-08c258293ccd,S,Sweden,se,1499977583563517,Jytte Guteland,Facebook
 37145262-cc2f-40a6-8e91-f62500bedc9f,Socialdemokrater för tro och solidaritet,2023-03-08T18:55:11.426Z,3d2f39ef-2b98-465c-9552-7ed18663975d,S,Sweden,se,223846164300912,Socialdemokrater för tro och solidaritet,Facebook
 3c71764f-db2e-490c-a965-f989bec58517,Socialdemokraterna i Linköping,2023-04-30T06:54:48.011Z,76309eed-91f1-408b-913e-5aeb6992bf22,S,Sweden,se,189886914377536,Socialdemokraterna i Linköping,Facebook
+3c88db2c-ee05-4af6-a670-89835ad18c23,Socialdemokraterna Ronneby,2024-01-20T05:08:49.101Z,cec13dfe-2f77-4d7c-8847-69e2993a8870,S,Sweden,se,153326414540545,Socialdemokraterna Ronneby,Facebook
 3c8f44ab-d9d6-4d06-a057-e228a91b4a37,Socialdemokraterna i Mariestad,2023-03-08T19:48:39.540Z,b714556b-d19c-429d-9205-cce02d89a13c,S,Sweden,se,155607071162224,Socialdemokraterna i Mariestad,Facebook
 3d256e31-3dec-4812-9460-41164022a851,Henrik Fritzon,2023-05-28T06:54:37.842Z,cd668f32-87ad-48d2-b51a-8033310c478b,S,Sweden,se,676354189056401,Henrik Fritzon,Facebook
 3db9248b-7670-4448-a35a-78b97f30acd6,Socialdemokraterna Ystad,2023-02-07T15:06:04.460Z,daf8cfc3-fa54-4957-9572-f29754c28a91,S,Sweden,se,358016594293864,Socialdemokraterna Ystad,Facebook
@@ -955,6 +962,7 @@ ffcd006e-6fc8-4e95-b329-22d364e361dd,SSU Norrtälje,2023-10-01T05:08:54.096Z,158
 3d7a73ac-fba9-49df-a19d-42e44bf5a150,Dalarnas Sjukvårdsparti,2023-02-24T10:55:16.437Z,b7dc5796-cc48-41a9-add4-f0f8f80b3ed5,And,Sweden,se,104130758973889,Dalarnas Sjukvårdsparti,Facebook
 4289df56-f31e-4711-aaae-e87ba8b8244c,Gustav Kasselstrand,2022-08-16T15:23:52.813Z,0ee2adf5-1147-487e-bb3c-1443b8f26cdf,And,Sweden,se,613753918717119,Gustav Kasselstrand,Facebook
 44229ca6-e45e-4d89-b5f6-23823b11ac82,Dagens Process,2023-12-22T05:08:38.281Z,be3a2569-07c3-4397-ba96-8973b6f26cfe,And,Sweden,se,178323795370492,Dagens Process,Facebook
+45b9c478-129f-4416-8645-027abe05756f,Sjukvårdspartiet i Värmland,2024-01-22T05:08:32.818Z,e6a6ee81-0eef-4bf5-91cd-a9f20880fccc,And,Sweden,se,493472934020473,Sjukvårdspartiet i Värmland,Facebook
 47366ba5-f9a2-4e4e-aff0-fdba4d94c0cc,Rönningepartiet,2023-04-26T06:55:24.469Z,83411d38-ce28-4acf-af21-5f3578efe851,And,Sweden,se,150339891652630,Rönningepartiet,Facebook
 4dd674c0-9845-4f6e-8c65-563c68fe2b6b,Hela Vara Kommuns Bästa,2023-10-14T05:08:36.836Z,48cc32fb-e83d-4fbe-be60-8cbb25be874a,And,Sweden,se,1627991033943249,Hela Vara Kommuns Bästa,Facebook
 573b06d4-6231-49f6-bc0e-994fd4de6836,Demokraterna,2023-02-07T15:06:03.986Z,5384da65-e0f6-434e-989d-b4103eb03659,And,Sweden,se,1419307421424959,Demokraterna,Facebook
