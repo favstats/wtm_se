@@ -11,5 +11,5 @@ output: github_document
 
 |Data           |Latest     |
 |:--------------|:----------|
-|30 Days Window |2024-05-11 |
-|7 Days Window  |2024-05-11 |
+|30 Days Window |2024-05-14 |
+|7 Days Window  |2024-05-13 |
